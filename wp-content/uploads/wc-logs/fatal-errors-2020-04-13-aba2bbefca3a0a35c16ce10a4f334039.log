@@ -14,3 +14,981 @@ Stack trace:
 #3 {main}
   thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
 
+2020-04-13T12:05:18+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:05:18+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:11:59+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:12:00+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:12:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:12:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:12:14+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:12:14+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:12:39+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:12:39+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:15:16+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:15:17+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:15:20+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:15:20+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:23:15+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:23:16+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:23:21+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:23:22+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:23:26+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:23:26+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:24:45+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:24:45+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:25:08+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:25:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:26:31+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:26:32+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:26:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:26:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:26:52+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:29:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:29:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:29:43+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:29:43+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:34:38+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:34:39+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:34:53+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:34:54+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:35:07+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:35:08+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:35:17+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:35:18+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:35:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:50:17+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:50:17+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:51:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:51:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:23+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:24+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:28+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:29+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:40+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:52+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:52+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:56+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:52:57+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:53:21+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:53:21+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:55:47+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:55:47+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:56:59+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:56:59+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:57:24+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:57:24+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:57:58+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:57:59+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T12:59:01+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:00:17+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:00:18+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:01:42+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:01:43+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:01+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:01+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:18+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:18+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:27+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:28+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:33+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:02:33+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:03:10+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:03:11+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:03:41+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:03:41+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:03:54+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:03:55+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:04:01+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:04:02+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:04:19+00:00 CRITICAL syntax error, unexpected '/', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 98
+
+2020-04-13T13:04:20+00:00 CRITICAL syntax error, unexpected '/', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 98
+
+2020-04-13T13:04:20+00:00 CRITICAL syntax error, unexpected '/', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 98
+
+2020-04-13T13:04:38+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:04:38+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:05:14+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:05:15+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:05:20+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:05:21+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:06:26+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:06:27+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:06:34+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:06:35+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:07:28+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:07:28+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:07:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:07:52+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:95
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 95
+
+2020-04-13T13:08:21+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:08:22+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:08:24+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:08:25+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:19:27+00:00 CRITICAL syntax error, unexpected '<', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 79
+
+2020-04-13T13:19:27+00:00 CRITICAL syntax error, unexpected '<', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 79
+
+2020-04-13T13:19:30+00:00 CRITICAL syntax error, unexpected '<', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 79
+
+2020-04-13T13:19:30+00:00 CRITICAL syntax error, unexpected '<', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 79
+
+2020-04-13T13:19:31+00:00 CRITICAL syntax error, unexpected '<', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 79
+
+2020-04-13T13:19:31+00:00 CRITICAL syntax error, unexpected '<', em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 79
+
+2020-04-13T13:20:33+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:33+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:35+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:36+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:42+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:42+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:44+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:44+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:46+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:47+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:49+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:50+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:51+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:80
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 80
+
+2020-04-13T13:20:56+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:85
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 85
+
+2020-04-13T13:20:57+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php:85
+Stack trace:
+#0 C:\xampp\htdocs\loja\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\loja\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown, em C:\xampp\htdocs\loja\wp-content\themes\loja\page-home.php, na linha 85
+
